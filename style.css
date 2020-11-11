@@ -1,0 +1,61 @@
+/* h1{
+    color:white;
+} */
+*{
+    color: darkblue;
+    font-style: "calibri";
+    /* background-image: url("Snowflakes.gif"); */
+    /* background-image: url("MatureWigglyGlassfrog-max-1mb.gif"); */
+}
+.header{
+    background-image: linear-gradient(royalblue, slateblue, turquoise );
+    border: solid;
+    color: darkblue;
+    
+    border: 6px;
+    border-style: inset;
+    
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+a{
+    display: flex;
+    justify-content: right;
+    margin-top: 50px;
+}
+
+p{
+    color: darkblue;
+}
+
+.grid{
+    background-color: #82dae9;
+    display: flex;
+    justify-content: space-evenly;
+    border: solid;
+    
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.body{
+    background-image: url("Snowflakes.gif");
+    /* background-color: #; */
+    border: solid;
+    color: darkblue;
+    border: 6px;
+    border-style: inset;
+}
+img{
+    color: darkblue;
+    border: 6px;
+    border-style: inset;
+}
+.footer{
+    background-color: #81AFF9;
+    color: royalblue;
+    border: 6px;
+    border-style: inset;
+}
